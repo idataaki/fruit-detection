@@ -1,7 +1,7 @@
 # fruit-segmentation
 ## usage
 - clone yolov5 in the project directory
-- install yolov5 reeequirements
+- install yolov5 requirements
 - download my moodels from the link below (not available now) 
 - or use your own model
 - run the `inference.py` file:
